@@ -1,0 +1,33 @@
+body{
+  background: url(https://i.ibb.co/Xy6518D/fantasy.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+h1{
+  color: #f2f2f2;
+}
+#img-logo{
+  max-width: 100px;
+  max-height: 100px;
+  margin: 0 auto;
+}
+#login-modal .modal-dialog{
+  width: 350px;
+
+}
+
+.modal-content{
+    background: #cccccc;
+}
+#login-modal input[type=text], input[type=password]{
+  margin-top: 10px;
+}
+.checkbox{
+  margin: 10px;
+}
+
+input[type=checkbox]{
+  margin-right: 5px;
+}
+.row{
+  margin: 0 auto;
+}
